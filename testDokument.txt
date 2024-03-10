@@ -4,3 +4,6 @@ Jetzt habe ich eine Branch erstellt, und möchte überprüfen, was ich damit mac
 
 
 Das muss anders gemacht werden. EG
+
+
+Hier sind einige Änderungen auf dem Branch (EG)
